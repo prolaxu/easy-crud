@@ -9,7 +9,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Prolaxu\\EasyCrud\\Providers\\EasyCrudServiceProvider"
+                "Prolaxu\\EasyCrud\\EasyCrudServiceProvider"
             ]
         }
     },

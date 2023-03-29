@@ -9,7 +9,7 @@ use Illuminate\Http\Request;
 use Illuminate\Http\Resources\Json\JsonResource;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Schema;
-use Modules\Inventory\Traits\RowsPerPage;
+use Prolaxu\EasyCrud\Traits\RowsPerPage;
 use Prolaxu\EasyCrud\Exceptions\AccessDeniedException;
 use ReflectionClass;
 use Throwable;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\Inventory\Traits;
+namespace Prolaxu\EasyCrud\Traits;
 
 
 use Carbon\Carbon;

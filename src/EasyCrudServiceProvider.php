@@ -1,8 +1,9 @@
 <?php
 
- namespace  Prolaxu\EasyCrud\Providers;
- use  Illuminate\Support\ServiceProvider;
- use  Prolaxu\EasyCrud\QueryServiceProvider;
+ namespace  Prolaxu\EasyCrud;
+ use Illuminate\Support\ServiceProvider;
+ use Prolaxu\EasyCrud\Providers\QueryServiceProvider;
+
  class  EasyCrudServiceProvider  extends  ServiceProvider
 {
      /**

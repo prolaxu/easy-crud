@@ -1,6 +1,6 @@
 <?php
 
-namespace Prolaxu\EasyCrud;
+namespace Prolaxu\EasyCrud\Providers;
 
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Pagination\Paginator;
