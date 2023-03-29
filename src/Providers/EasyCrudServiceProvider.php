@@ -1,6 +1,6 @@
 <?php
 
- namespace  Prolaxu\EasyCrud;
+ namespace  Prolaxu\EasyCrud\Providers;
  use  Illuminate\Support\ServiceProvider;
  use  Prolaxu\EasyCrud\QueryServiceProvider;
  class  EasyCrudServiceProvider  extends  ServiceProvider
