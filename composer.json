@@ -1,0 +1,24 @@
+{
+    "name": "prolaxu/easy-curd",
+    "description": "Package that helps you create crud faster.",
+    "autoload": {
+        "psr-4": {
+            "Prolaxu\\EasyCrud\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Prolaxu\\EasyCrud\\Providers\\EasyCrudServiceProvider"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "Laxman Adhikari",
+            "email": "adhikarilaxu0001@gmail.com"
+        }
+    ],
+    "require": {},
+    "license": "MIT"
+}
